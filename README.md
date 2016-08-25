@@ -12,3 +12,4 @@ Stages
 * Stage 4: Write a function that calculates the statistics and return that to the user.
 * Stage 5: Set up a place where the user can view the statistics of all the pictures the user have uploaded. 
 * Stage 6: Improve the user interface
+gif. http://yogscast.wikia.com/wiki/File:Flying_cat_balls.gif
