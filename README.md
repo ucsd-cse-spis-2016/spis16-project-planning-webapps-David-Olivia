@@ -19,3 +19,5 @@ We plan to build a blog where the user rates photos on a scale of 1-5 of cutenes
 * upload image 
 * postgress database: username, login, ratings of pictures
 * upload image to postgress database
+
+For learning Postgres, try this: http://blog.y3xz.com/blog/2012/08/16/flask-and-postgresql-on-heroku
