@@ -5,6 +5,9 @@ David L. Olivia T., Webapps, Mentor: Niral
 
 We plan to build a blog where the user rates photos on a scale of 1-5 of cuteness. The user can upload photos for others to rate and can get back the average rating for each photo. When users rate photos, they can see the photo's statistics (ex. how many people rated it, average rating, etc.) The interface will be cute.
 
+website on heroku:
+https://salty-everglades-26331.herokuapp.com/
+
 # Stages
 * Stage 1: Set up working website on heroku.
 * Stage 2: Have the website be able to display and upload photos into a database.
